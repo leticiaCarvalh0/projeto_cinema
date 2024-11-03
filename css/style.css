@@ -1,0 +1,93 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightyellow;
+    text-align: center;
+    padding: 0 20px;
+
+}
+
+h1{
+    background: darkred;
+    border-radius: 10px;
+    padding: 20px;
+    color: black;
+    /* width: 100%; */
+}
+
+h1.tittlePage{
+    color: #FFFACD;
+}
+
+.hoje{
+    color: darkgreen;
+}
+
+.amanha{
+    color: darkblue;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2{
+    color: royalblue;
+    margin: 20px;
+    margin-bottom: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+.icon{
+    width: 20px;
+    height: auto;
+    /* vertical-align: middle; */
+    /* margin-right: 8px; */
+}
+
+a:hover{
+    color: black;
+}
+
+.icon:hover{
+    transform: scale(1.1);
+    transition: transform 0.2s;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #777;
+    padding: 15px;
+    background-color: rgb(37, 37, 37);
+}
+
+.cidade{
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 30px auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 400px;
+    background-color: rgb(254, 254, 242);
+}
+
+.cartaz{
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 30px auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 800px;
+    background-color: rgb(254, 254, 242);
+}
+
+
+
